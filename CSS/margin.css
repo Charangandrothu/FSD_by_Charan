@@ -1,0 +1,36 @@
+div{
+	height:150px;
+	width:300px;
+	background-color: blue;
+}
+
+#abc{
+	
+	border: 30px solid orange;
+
+	margin-left: 20px;
+	margin-right:50px ;
+	height: 150px;
+	width: 300px;
+	float: left;
+	padding: 20px silver;
+
+}
+#def{
+	float: left;
+	border: 3px solid black;
+	margin-left: 20px;
+	margin-right:50px ;
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+}
+#ghi{
+	float: left;
+	border: 3px solid black;
+	margin-left: 20px;
+	margin-right:50px ;
+	height: 150px;
+	width: 150px;
+	padding: 20px;
+}

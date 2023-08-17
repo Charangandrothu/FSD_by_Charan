@@ -1,0 +1,259 @@
+#ab{
+    height: 700px;
+    width:1500px;
+    background: snow;
+    box-sizing: border-box;
+
+}
+#bc{
+    height:600px ;
+    width:350px;
+    background-color: white;
+    
+    box-shadow: 3px 3px 5px grey;
+    padding: 30px;
+    box-sizing: border-box;
+    float: left;
+    margin:60px 30px 100px 200px;
+    text-align: center;
+    margin-top: 60px;
+
+    
+}
+#cd{
+    height:300px;
+    width:700px ;
+    background-color: white;
+    box-shadow: 3px 3px 5px grey;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 60px ;
+
+}
+#de{
+    height: 300px;
+    width:700px ;
+    background-color: white;
+    box-shadow: 3px 3px 5px grey;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+    
+    margin-top: 20px;
+    
+}
+#nm{
+    border-radius: 50%;
+    border: 2px solid blue;
+    
+
+}
+#hh{
+    font-size: 20px;
+    font-family: monaco;
+
+}
+#p{
+    line-height: 1.5;
+}
+#button
+    {
+    background-color:royalblue;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    }
+    #buttona
+    {
+    background-color:white;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+    margin: 4px 2px ;
+    cursor: pointer;
+    color:royalblue;
+    border-color: 3px solid blue;
+    border: 1px solid blue;
+    
+    }
+    #website{
+        font-size: 15px;
+        font-family: monaco;
+    }
+    #http{
+        font-size: 15px;
+        font-family: monaco;
+        color: grey;
+    }
+    #icon{
+        color: black;
+    }
+    #twitter{
+            color: blue;
+    }
+    #name{
+        font-size: 15px;
+        font-family: Helvetica;
+        line-height: 2;
+
+    }
+   #preview
+    {
+    background-color:greenyellow;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+    margin: 4px 2px ;
+    cursor: pointer;
+   
+    
+    }
+     #html
+    {
+    background-color:skyblue;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+    margin: 4px 2px ;
+    cursor: pointer;
+   
+    
+    }
+      #action
+    {
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16x;
+    margin: 4px 2px ;
+    cursor: pointer;
+   
+    
+    }
+    #box{
+        font-size: 20px;
+        border-radius: 5px;
+        border: 1px solid grey;
+    }
+    #pro{
+        font-family: arial;
+    }
+    .container {
+            background-color: rgb(192, 192, 192);
+            width: 80%;
+            border-radius: 15px;
+        }
+      
+        .skill {
+            background-color: rgb(116, 194, 92);
+            color: white;
+            padding: 1%;
+            text-align: right;
+           
+            border-radius: 15px;
+        }
+      
+        .html {
+            width: 70%;
+        }
+
+        table{
+    width: 100%;
+}
+form th{
+    text-align: left;
+    letter-spacing: 0.5px;
+    line-height: 40px;
+    font-size: 20px;
+}
+td{
+    text-align: right;
+}
+input{
+    height: 15px;
+    width:350px;
+    color: darkgray;
+    font-size: 20px;
+}
+#left{
+    text-align: left;
+}
+button{
+    height: 35px;
+    width: 130px;
+    background-color: #0070ff;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+}
+#deeee{
+    width: 730;
+    height: 10px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+#f{
+    width:500px  ;
+    height: 5px;
+    background-color: blue;
+    border-radius: 5px;
+}
+#defff{
+    width:500px  ;
+    height: 5px;
+    background-color: red;
+    border-radius: 5px;
+}
+#y{
+    width:650px  ;
+    height: 5px;
+    background-color: green;
+    border-radius: 5px;
+}
+#k{
+    width:400px  ;
+    height: 5px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+#o{
+    width:550px  ;
+    height: 5px;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+#insta{
+    color: red;
+}
+#fb{
+    color: blue;
+}

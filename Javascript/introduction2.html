@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>Javascript Introduction 2</h1>
+	<script type="text/javascript">
+		var name ='Charan';
+		name+=' Nag';
+		name+=' Mahaveer<br>';
+		document.write(name + "<br>");
+
+
+		var a=10.93;
+		document.write(typeof(a) +"<br>");
+
+		var f='<br>Charan';
+		document.write(typeof(f) +"<br>");
+        
+        var arr =[ 'charan',7,true +"<br>"];
+        //document.write(typeof(arr));//object
+        document.write(arr); 
+        var arr =[ 'charan','gandrothu',7 ];  
+        document.write(arr[1] +"<br>"); 
+        //arr[n] displays the n variable only .it starts from 0 .if it is not defined it displays as undefined
+
+
+        //task
+        var arr=[1,7,5,9];
+        document.write(arr[2] +"<br>" +arr[3] +"<br>");
+
+        var obj={
+        	'name':'Charan',
+        	'rollno':'21255-EC-034',
+        	'college':'APC',
+        	'branch':'ECE'
+        }
+       console.log(obj.name);//IT will come in console if we need only name the =n use console.log(obj.name)
+       console.log(obj.rollno);
+       console.log(obj.college);
+       console.log(obj.branch);
+       //document.write used to display content in webpage
+       document.write("<br>"+ obj.name +"<br>")
+       document.write(obj.rollno +"<br>")
+       document.write(obj.college +"<br>")
+       document.write(obj.branch +"<br>")
+
+
+        var second=[{
+        	'name':'Charan',
+        	'rollno':'21255-EC-034',
+        	'college':'APC',
+        	'branch':'ECE'
+        },
+        {
+        	'name':'Maheswara Rao',
+        	'rollno':'21255-EC-56108',
+        	'college':'APC',
+        	'branch':'ECE'
+        }];
+       console.log(second[1].name);//IT will come in console if we need only name the =n use console.log(second.name)
+       console.log(second[1].rollno);
+       console.log(second[1].college);
+       console.log(second[1].branch);
+       //document.write used to display content in webpage
+       document.write("<br>"+ second[1].name +"<br>")
+       document.write(second[1].rollno +"<br>")
+       document.write(second[1].college +"<br>")
+       document.write(second[1].branch +"<br>")
+
+
+       for (var i=0; i<second.length ; i++){
+        document.write("<br>" + second[i].name  +"<br>"+ second[i].rollno +"<br>"+second[i].college  +"<br>"+second[i].branch +"<br>");
+    }
+
+	</script>
+
+</body>
+</html>

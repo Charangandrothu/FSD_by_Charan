@@ -1,0 +1,53 @@
+/*.external{
+	border: 1px solid yellow;
+	background-color: lightblue;
+}
+#external{
+	border: 1px solid yellow;
+	background-color: blueviolet;
+	font-family: arial;
+}
+p{
+	color:blueviolet;
+	font-size: 20px;
+	
+}
+div{
+	height:200px;
+	width: 100px;
+	background-color:black;
+}
+<div style="height: 700px;width:1500px;background-color: skyblue;">
+		<div style="height:200px;width:1500px;background-color:transparent;">  </div>
+			<div style="height: 300px;width:1500px;">
+				
+				<div style="height: 300px;width:150px;float: left;"></div>
+				<div style="height: 300px;width:250px;background-color:grey;float:left;"></div>
+				<div style="height: 300px;width:66px;float:left;"></div>
+				<div style="height: 300px;width:250px;background-color:white;float: left;"></div>
+				<div style="height: 300px;width:67px;float: left;"></div>
+				<div style="height: 300px;width:250px;background-color:grey;float:left;"></div>
+				<div style="height: 300px;width:67px;float:left;"></div>
+				<div style="height: 300px;width:250px;background-color:white;float:left;"></div>
+				<div style="height: 300px;width:150px;float:right;"></div>
+
+			</div>
+			<div style="height:200px;width:1500px;background-color:transparent;"></div>
+
+	</div>*/
+
+
+	/*body{
+		background-image: url("images/elec.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}*/
+
+
+	div{
+		height: 100px;
+		width: 200px;
+		background-color: blue;
+		background-image: url("images/dhoni.png");
+
+	}

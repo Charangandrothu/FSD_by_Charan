@@ -1,0 +1,14 @@
+#border {
+		height: 100px;
+		width:200px ;
+  border: 5px dashed brown ;
+  text-align: center;
+ 
+  background-color: skyblue;
+}
+#borderd{
+	height: 100px;
+	width: 200px;
+	background-color: orange;
+	background-clip: padding-box;
+}

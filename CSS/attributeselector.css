@@ -1,0 +1,42 @@
+input[type]{
+	color:yellow;
+
+}
+input[type="text"]{
+    background-color: black;
+	color:white;
+
+
+}
+input[type="number"]{
+	color:blue;
+}
+input[type="password"]{
+	color:skyblue;
+}
+a[href]{
+	background-color: greenyellow;
+}
+
+
+div:hover{
+	height:200px;
+	width:200px;
+	background-color:red;
+}
+a:active{
+	color:yellow;
+
+	}
+a:hover{
+	color:red;
+	font-size: 20px;
+
+}	
+a:link{
+	color:white;
+}
+a:visited{
+	color:black;
+}
+

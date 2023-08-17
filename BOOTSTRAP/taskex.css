@@ -1,0 +1,45 @@
+#ab{
+  
+  position: relative;
+  margin: 0;
+  padding: 30px 0 0;
+  padding-left: 80px;
+ 
+
+}
+#pic{
+	padding-left: 50px;
+	padding-top: 20px;
+}
+#may{
+	float: right;
+	padding-right: 10px;
+}
+#col{
+	width: 400px;
+	position: relative;
+	left: 300px;
+}
+#m{
+	background-color: whitesmoke;
+}
+#cola{
+	width: 400px;
+	box-sizing: border-box;
+	position: relative;
+	left: 300px;
+}
+#colb{
+	width: 400px;
+	box-sizing: border-box;
+	position: relative;
+	left: 300px;
+	top: 20px;
+}
+#colc{
+	width: 400px;
+	box-sizing: border-box;
+  position: relative;
+	left: 300px;
+	top: 20px;
+	}
